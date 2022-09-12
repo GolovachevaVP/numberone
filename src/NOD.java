@@ -1,5 +1,3 @@
-
-
 public class NOD {
     public static void main(String[] args) {
         System.out.println("Наибольший общий делитель: " + getNod2(18, 35));
